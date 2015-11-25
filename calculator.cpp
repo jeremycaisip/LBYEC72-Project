@@ -1,5 +1,11 @@
-# LBYEC72-Project
-Calculator
+//*************LBYEC72-Project*************//
+// Calculator
+// Created by:
+//  Altamirano, Leandro
+//  Caisip, Jeremy
+//  de Chavez, Karsten
+// Modified on: November 25, 2015
+
 #include <iostream>
 #include <stdlib.h>
 #include <math.h>
